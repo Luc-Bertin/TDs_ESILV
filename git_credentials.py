@@ -1,0 +1,2 @@
+GIT_USERNAME = 'Luc-Bertin'
+GIT_PASSWORD = 'TinberLuc1995'
