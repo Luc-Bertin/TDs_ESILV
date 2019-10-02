@@ -1,8 +1,10 @@
-© Luc Bertin - TDs ESILVS Python - 2019
+© Luc Bertin - TDs ESILV Python - 2019
 
 # Description
 
-TDs d'enseignement procurés aux élèves en initation pour la data analyse avec Python à l'ESILV - La Défense
+TDs d'enseignement dispensés aux élèves de l'école d'ingénieurs ESILV - Paris La Défense, en initation pour la data analyse avec Python.
+
+![Une petite analyse avec Pandas](img_README/data-analysis.png)
 
 # Terms & Conditions
 
