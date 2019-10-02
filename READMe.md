@@ -4,7 +4,7 @@
 
 TDs d'enseignement dispensés aux élèves de l'école d'ingénieurs ESILV - Paris La Défense, en initation pour la data analyse avec Python.
 
-![Une petite analyse avec Pandas](img_README/data-analysis.png)
+![Une petite analyse avec Pandas](img_README/data_analysis.png)
 
 # Terms & Conditions
 
