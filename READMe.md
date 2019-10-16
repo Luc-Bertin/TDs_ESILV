@@ -8,6 +8,8 @@ TDs d'enseignement dispensés aux élèves de l'école d'ingénieurs ESILV - Par
 
 ![Une petite analyse avec Pandas](img_README/data_analysis.png)
 
+![résultats Bootstrap avec plusieurs modèles](td4_ressources/img_bootstrap.png)
+
 
 # Terms & Conditions
 
