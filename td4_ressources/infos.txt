@@ -1,0 +1,2 @@
+http://www.math.usu.edu/~adele/RandomForests/Ovronnaz.pdf
+img_learning_curve https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/cv_boot.pdf
