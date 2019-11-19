@@ -16,9 +16,13 @@ TDs d'enseignement dispensés aux élèves de l'école d'ingénieurs ESILV - Par
   <img src="td5_ressources/regression_animation.gif">
 </p>
 
-# Terms & Conditions
+<p align="center">
+  <img src="bonus_ressources_gradient_boosting/gradient_boosting_animation.gif">
+</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+# Terms & Conditions
+©Luc Bertin
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
