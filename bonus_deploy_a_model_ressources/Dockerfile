@@ -1,7 +1,7 @@
-FROM python:slim
+FROM python:3.7
 
 COPY requirements.txt /deploy/
-RUN pip3 install -r /deploy/requirements.txt
+RUN pip install -r /deploy/requirements.txt
 
 WORKDIR /deploy/
 COPY web_app.py .
