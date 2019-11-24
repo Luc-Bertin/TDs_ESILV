@@ -1,5 +1,6 @@
 from flask import Flask, request
 from sklearn.externals import joblib
+import numpy as np
 
 model = None
 
