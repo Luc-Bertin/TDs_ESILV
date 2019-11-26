@@ -21,6 +21,11 @@ TDs d'enseignement dispensés aux élèves de l'école d'ingénieurs ESILV - Par
 </p>
 
 
+<p align="center">
+  <img src="td6_ressources/FeatureMaps.png">
+</p>
+
+
 # Terms & Conditions
 ©Luc Bertin
 
