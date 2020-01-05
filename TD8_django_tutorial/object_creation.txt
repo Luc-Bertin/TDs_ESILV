@@ -1,17 +1,17 @@
 from predicteur_app.models import House
 house = House(
-            CRIM    = 1.12
-            ZN      = 2.12
-            INDUS   = 3.12
-            CHAS    = 4.12
-            NOX     = 5.12
-            RM      = 6.12
-            AGE     = 7.12
-            DIS     = 8.12
-            RAD     = 9.12
-            TAX     = 10.12
-            PTRATIO = 11.12
-            B       = 12.12
-            LSTAT   = 13.12
+            CRIM    = 1.12,
+            ZN      = 2.12,
+            INDUS   = 3.12,
+            CHAS    = 4.12,
+            NOX     = 5.12,
+            RM      = 6.12,
+            AGE     = 7.12,
+            DIS     = 8.12,
+            RAD     = 9.12,
+            TAX     = 10.12,
+            PTRATIO = 11.12,
+            B       = 12.12,
+            LSTAT   = 13.12,
           )
 house.save()
