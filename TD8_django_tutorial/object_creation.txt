@@ -1,4 +1,9 @@
 from predicteur_app.models import House
+# from predicteur_app.serializers import HouseSerializer
+# from rest_framework.parsers import JSONParser
+# from rest_framework.renderers import JSONRenderer
+
+
 house = House(
             CRIM    = 1.12,
             ZN      = 2.12,
@@ -12,6 +17,7 @@ house = House(
             TAX     = 10.12,
             PTRATIO = 11.12,
             B       = 12.12,
-            LSTAT   = 13.12,
+            LSTAT   = 13.12
           )
+
 house.save()
