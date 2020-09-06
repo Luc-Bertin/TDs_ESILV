@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %} 
+
+{% block description %}
+
+  
+{% include "navigation.html" %}
+
+
+<h2> This is my brand new website </h2>
+
+<h3> Author: {{ var1 | capitalize }} </h3>
+
+{% if var1 == "luc" %}
+	{{ var2 | safe }}
+{% endif %}
+
+{{ wtf.quick_form(form) }}
+
+<ul>
+{% for cle,valeur in dico.items() %}
+	<li> {{cle}} : {{valeur}}</li>
+{% endfor %}
+</ul>
+
+
+
+
+
+ {% endblock %}
